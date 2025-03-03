@@ -1,7 +1,7 @@
 # Alphabet Soup Neural Network Model Report
 
 ## Overview of the Analysis
-Alphabet Soup, a nonprofit foundation, seeks to optimize its funding selection process by identifying applicants with the highest likelihood of success. To accomplish this, we developed a binary classification model using deep learning to predict whether an applicant will effectively utilize the funds provided. By leveraging historical data, we trained and evaluated a neural network to determine its effectiveness in predicting funding success.
+Alphabet Soup, a nonprofit foundation, seeks to optimize its funding selection process by identifying applicants with the highest likelihood of success. To accomplish this, I developed a binary classification model using deep learning to predict whether an applicant will effectively utilize the funds provided. By leveraging historical data, we trained and evaluated a neural network to determine its effectiveness in predicting funding success.
 
 ---
 ## Results
